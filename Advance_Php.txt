@@ -1,0 +1,37 @@
+1} What Is Object Oriented Programming? 
+
+-> Object-oriented programming is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields, and code in the form of procedures. In OOP, computer programs are designed by making them out of objects that interact with one another
+
+2} What Are Properties Of Object Oriented Systems?
+
+-> Object-oriented systems are designed around the concept of objects, which encapsulate both data and behavior. Here are some fundamental properties of object-oriented systems:
+
+  1)Encapsulation: This principle involves bundling data (attributes) and methods (functions) that operate on the data into a single unit, or object. Encapsulation hides the internal state of the object from the outside world and only exposes a controlled interface.
+
+  2)Abstraction: Abstraction involves simplifying complex systems by modeling classes based on essential characteristics and ignoring irrelevant details. It helps in focusing on high-level functionalities rather than low-level implementation details.
+
+  3)Inheritance: Inheritance allows a new class (subclass or derived class) to inherit properties and behaviors from an existing class (superclass or base class). This promotes code reuse and establishes a natural hierarchy between classes.
+
+  4)Polymorphism: Polymorphism enables objects of different classes to be treated as objects of a common superclass. It allows methods to be used interchangeably, providing flexibility and the ability to invoke methods that have the same name but behave differently based on the object’s class.
+
+  5)Composition: Composition refers to the design principle where a class is composed of one or more objects from other classes. It allows for building complex types by combining objects of other types, promoting modularity and reuse.
+
+  6)Message Passing: Objects communicate with each other through message passing. When an object needs to interact with another, it sends a message (usually a method call) to the other object, requesting it to perform a certain action.
+
+  7)Class and Object: A class defines the blueprint for objects, specifying what attributes and methods the objects of that class will have. An object is an instance of a class, containing actual values and executing methods as defined by the class.
+
+  8)Modularity: Object-oriented systems emphasize modularity by dividing the system into discrete objects and classes. Each object/class encapsulates specific functionality, making the system easier to understand, maintain, and modify.
+
+3} What Is Difference Between Class And Interface? 
+
+-> The main difference between class and interface is that a class describes the behavior of an object. In contrast, an interface contains the behaviors assigned and defined by the class. This article will explain the difference between class and interface in great detail.
+
+4} What Is Overloading? 
+
+-> Overloading is a concept that appears in different contexts in programming and software design. Here are the most common uses:
+
+Function Overloading: This occurs when two or more functions in the same scope have the same name but different parameters (i.e., different type or number of parameters). The compiler or interpreter determines which function to call based on the arguments provided.
+
+5} What Is T_PAAMAYIM_NEKUDOTAYIM (Scope Resolution Operator (::) with Example 
+ 
+-> 
